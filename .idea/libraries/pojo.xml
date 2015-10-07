@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pojo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Customers/RobertHalf/tmp/pojo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Customers/RobertHalf/tmp/pojo.jar!/" />
+    </SOURCES>
+  </library>
+</component>

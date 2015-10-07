@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="H2O_DeepLearning_RH">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tmp/H2O_DeepLearning_RH.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/tmp/H2O_DeepLearning_RH.jar!/" />
+    </SOURCES>
+  </library>
+</component>

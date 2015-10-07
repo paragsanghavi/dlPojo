@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="h2o-genmodel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Customers/RobertHalf/tmp/h2o-genmodel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Customers/RobertHalf/tmp/pojo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
